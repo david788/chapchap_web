@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chap-b5f11": {
+      "hosting": {
+        "chapchap": [
+          "chap-b5f11"
+        ]
+      }
+    }
+  }
+}
